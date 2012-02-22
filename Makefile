@@ -1,5 +1,5 @@
-CC=gcc
-RC=windres
+CC=i686-pc-mingw32-gcc
+RC=i686-pc-mingw32-windres
 
 OBJS = about.o bmpload.o bodlevel.o iduca.o igra.o main.o resource.o randgen.o rang.o settings.o skin.o
 
